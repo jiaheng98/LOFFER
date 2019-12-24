@@ -4,7 +4,7 @@ title: Merry Christmas & Happy birthday
 date: 2019-12-25
 Author: piccolo
 tags: [blessing]
-comments: true
+comments: false
 toc: true
 pinned: true
 ---
