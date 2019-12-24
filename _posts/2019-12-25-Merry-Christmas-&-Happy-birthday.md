@@ -6,7 +6,6 @@ Author: piccolo
 tags: [blessing]
 comments: false
 toc: true
-pinned: true
 ---
 
 Merry Christmas & Happy birthday!
